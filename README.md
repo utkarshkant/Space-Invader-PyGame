@@ -1,4 +1,4 @@
 # Space Invader PyGame
 
 
-![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+![Alt Text](https://github.com/utkarshkant/Space-Invader-PyGame/blob/master/Gameplay.gif)
